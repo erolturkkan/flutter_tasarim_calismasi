@@ -1,0 +1,19 @@
+{
+  "ayCoregi": "Crescent Roll",
+  "borek": "Pastry",
+  "corek": "Donut",
+  "ekle": "Buy",
+  "enYeni": "Newest",
+  "fiyatAyCoregi": "$ 10",
+  "fiyatKutBoregi": "$ 5",
+  "fiyatLimonluKek": "$ 12",
+  "fiyatTarcinliHavucluKek": "$ 12",
+  "fiyatToplam": "$ 39",
+  "havucluTarcinliKek": "Carrot Cinnamon Cake",
+  "kek": "Cake",
+  "kuponKullan": "Use Cupon",
+  "kutBoregi": "Kut Pastry",
+  "limonluKek": "Lemon Cake",
+  "odeme": "Checkout",
+  "urun": "Item"
+}
